@@ -6,5 +6,6 @@ public class Rectangle {
 
         System.out.println("Area is: " + area);
         System.out.println("Perimeter is: " + perimeter);
+
     }
 }
