@@ -1,6 +1,10 @@
 import java.util.Scanner;
 public class RectangleCalculator {
-    public void computeareaperimeter(){
+    public static void main(String[] args) {
+        RectangleCalculator rectobj1 = new RectangleCalculator();
+        rectobj1.computeAreaPerimeter();
+    }
+    public void computeAreaPerimeter(){
     //local variables
     double length,width,area,perimeter;
     Scanner input = new Scanner(System.in);
@@ -13,6 +17,9 @@ public class RectangleCalculator {
 
     System.out.println("Area is: " + area);
     System.out.println("Perimeter is: " + perimeter);
+    System.out.println("You hacked nasa mainframe");
+    
 
 }
-}
+
+}//split to three methods
