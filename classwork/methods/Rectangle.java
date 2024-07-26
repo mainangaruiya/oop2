@@ -1,13 +1,13 @@
-package methodspkg;
+//package methodspkg;
 import java.util.Scanner;
 
 public class Rectangle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int length, width, area, perimeter;
+        float length, width, area, perimeter;
 
         System.out.println("Enter the length:");
-        length = input.nextInt();
+        length = input.nextFloat();
 
         System.out.println("Enter the width:");
         width = input.nextInt();
