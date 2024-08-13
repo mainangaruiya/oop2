@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Create the new directory named 'practice'
+mkdir -p practice
+
+# Move all specified directories and files except README.md into 'practice'
+mv Arrays Classes classwork Functions "If & Switch" Introduction Loops practice/

@@ -1,4 +1,5 @@
-primitive
+primitive 
+	derived usrdef
 
 non-primitive
 	strings arrays classes interface

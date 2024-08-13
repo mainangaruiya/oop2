@@ -1,0 +1,10 @@
+construcor 
+	same name as class
+	no return type
+	cant be inherited
+
+Inhereitance base/super/parent
+				child/derived/sub class
+
+				public class <sub> inherits <parents>
+

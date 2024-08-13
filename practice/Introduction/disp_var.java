@@ -7,3 +7,5 @@ class disp_var{
 		System.out.println(full);
 	}
 }       	
+
+
